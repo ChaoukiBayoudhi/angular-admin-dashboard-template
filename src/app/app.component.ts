@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-admin-dashboard-template';
+
+  logme(){
+  console.log('testing');
+}
 }
